@@ -1,0 +1,22 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+body{
+    background-color: lightblue;
+}
+
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu-item {
+    border: 2px solid blue;
+}
+
+
